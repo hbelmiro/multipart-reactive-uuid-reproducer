@@ -1,4 +1,4 @@
-This project is a reproducer for 
+This project is a reproducer for https://github.com/quarkusio/quarkus/issues/31298.
 
 ## How to reproduce
 
